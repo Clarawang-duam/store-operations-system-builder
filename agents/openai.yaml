@@ -1,0 +1,4 @@
+interface:
+  display_name: "Store Operations System Builder"
+  short_description: "Define business rules, recovery, and acceptance criteria"
+  default_prompt: "用 $build-business-systems 梳理这个业务流程的实现边界、失败恢复和验收条件。"
